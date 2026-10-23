@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335724162607",
+    "project_id": "ngodingyuk-ddf16",
+    "storage_bucket": "ngodingyuk-ddf16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335724162607:android:94d89dea3bb1752d94e0da",
+        "android_client_info": {
+          "package_name": "com.example.ngodingyuk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdjUPtl83o6GOpvEnxC7mPcu3aIlyrwDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
